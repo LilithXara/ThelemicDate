@@ -1,0 +1,4 @@
+flatlib==0.2.3
+geopy==2.3.0
+pytz==2023.3
+timezonefinder==6.2.0
