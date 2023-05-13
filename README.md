@@ -23,7 +23,7 @@ pip install thelemic-date
 To use the Thelemic Date Class, follow the examples below:
 
 ```
-from ThelemicDateClass import ThelemicDate
+from thelemic_date import ThelemicDate
 
 ## Get the current Thelemic date for a specific location
 date_data = ThelemicDate()
