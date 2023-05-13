@@ -14,8 +14,9 @@ Welcome to Thelemic Date Class for Python! This Python package allows you to wor
 - Calculate a specific Thelemic date and time based on a given Gregorian date and time.
 - Easy to use and integrate into your Python projects.
 
-## Installation
-Copy the ThelemicDateClass.py file into the same location you wish to call it from. 
+## Easy Installation
+
+pip install thelemic-date
 
 ## Usage
 To use the Thelemic Date Class, follow the examples below:
