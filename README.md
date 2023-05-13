@@ -1,8 +1,9 @@
 # Thelemic Date Class for Python
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/LilithXara/ThelemicDate.svg)]([https://github.com/LilithXaraThelemicDate](https://github.com/LilithXara/ThelemicDate/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/LilithXara/ThelemicDate.svg)]([https://github.com/LilithXara/ThelemicDate](https://github.com/LilithXara/ThelemicDate/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/LilithXara/ThelemicDate.svg)](https://github.com/LilithXara/ThelemicDate/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/LilithXara/ThelemicDate.svg)](https://github.com/LilithXara/ThelemicDate/stargazers)
+
 
 Do what thou wilt shall be the whole of the Law. 
 
