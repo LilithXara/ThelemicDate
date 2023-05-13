@@ -20,13 +20,13 @@ Copy the ThelemicDateClass.py file into the same location you wish to call it fr
 ## Usage
 To use the Thelemic Date Class, follow the examples below:
 
-```from ThelemicDateClass import ThelemicDate```
+```from ThelemicDateClass import ThelemicDate
 
 ## Get the current Thelemic date for a specific location
 ```date_data = ThelemicDate()
 location = "Las Vegas, NV"
 current_date = date_data.now(location)
-print(current_date)```
+print(current_date)
 
 ## Calculate a specific Thelemic date and time based on a given Gregorian date and time
 ```location = "Las Vegas, NV"
